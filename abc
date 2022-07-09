@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>L'ABC di Francesco Grassetto</title>
+    <meta name="robots" content="noindex,nofollow">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="containerLanding">
+        <img class="boxPopupUp" src="images/profile.JPG" />
+        <h1 class="mainTitle textPopupUp">Francesco Grassetto</h1>
+    </div>
+
+    <div class="containerSocial">
+        <a href="https://www.youtube.com/channel/UC_bP7Khi5Yv0f6l_5q1ITCA" title="Canale YouTube" target="_blank">
+            <img class="buttonAnimation" src="images/yt.png" />
+        </a>
+        <a href="https://www.instagram.com/francesco.creator/" title="Instagram" target="_blank">
+            <img src="images/ig.png" />
+        </a>
+        <a href="https://www.facebook.com/fotouniversoravenna" title="Pagina Facebook" target="_blank">
+            <img src="images/fb.png" />
+        </a>
+    </div>
+
+    <a href="https://fotouniverso.it" title="Foto Universo" target="_blank">
+        <button class="amazon buttonAnimation">Foto Universo</button>
+    </a>
+    <br/>
+    <a href="https://www.youtube.com/channel/UC_bP7Khi5Yv0f6l_5q1ITCA" title="Canale YouTube" target="_blank">
+        <button class="youtube">YouTube</button>
+    </a>
+    <br/>
+    <a href="https://t.me/ritrovotecnologico" title="Gruppo Telegram pubblico" target="_blank">
+        <button class="telegram buttonAnimation">Telegram</button>
+    </a>
+    <br/>
+    <a href="https://ifire.ga" title="Progetto IFire Bot" target="_blank">
+        <button class="n26">iFire Service</button>
+    </a>
+    <br/>
+    <a href="https://amzn.eu/d/4MfJEFL" title="Attrezzatura video" target="_blank">
+        <button class="stuff">Attrezzatura video</button>
+    </a>
+    <br/>
+    <a href="grassettofrancesco08@gmail.com" title="Scrivimi!" target="_blank">
+        <button class="stuff">Scrivimi!</button>
+    </a>
+    <h3 class="credits fadeInDelayed">coded by Francesco Grassetto</h3>
+    <br/>
+</body>
+</html>
